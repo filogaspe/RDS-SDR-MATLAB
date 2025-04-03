@@ -42,7 +42,7 @@ Puoi scaricare il codice usato nella tesi qui:
 ## 👤 Chi sono
 
 Mi chiamo Filippo Gasperini, sono laureato in Ingegneria delle Telecomunicazioni presso l'Università di Pisa,  
-ed attualmente frequento il corso di Laurea Magistrale in Telecommunication Engineering presso il Politecnico di Milano. 
+ed attualmente frequento il corso di Laurea Magistrale in Telecommunication Engineering presso il Politecnico di Milano.   
 Resto disponibile per chiarimenti o informazioni!
 
 📧 Email: filippo.gasperini@mail.polimi.it  
