@@ -1,6 +1,6 @@
 # Ricevitore MATLAB-SDR per Radio Data System nella radio FM
 
-Benvenuto! 
+Benvenuto!   
 Qui puoi trovare il materiale relativo alla mia tesi triennale, discussa presso l'Università di Pisa nel maggio 2024.
 
 ---
@@ -8,8 +8,6 @@ Qui puoi trovare il materiale relativo alla mia tesi triennale, discussa presso 
 ## 📄 Tesi
 
 📥 [Scarica la tesi in PDF](RDS_SDR_MATLAB.pdf)
-
----
 
 ## 📚 Abstract
 Questa tesi si propone di esplorare in dettaglio il Radio Data System nella
@@ -27,19 +25,17 @@ funzionamento del sistema; nel secondo capitolo si discuteranno i concetti
 fondamentali delle SDR, illustrando come questa tecnologia consenta di utilizzare
 un ricevitore radio software. Sarà esaminata l'interazione tra la SDR-RTL e
 MATLAB. Nel terzo capitolo verrà presentata l'implementazione pratica del
-codice MATLAB in esame, mostrando come i dati RDS possano essere acquisiti,
-elaborati e interpretati per estrarre le informazioni trasmesse. Nelle conclusioni
-saranno evidenziati i risultati raggiunti, per poi trattare le possibili evoluzioni 
+codice MATLAB in esame, mostrando come i dati RDS possano essere acquisiti, 
+elaborati e interpretati per estrarre le informazioni trasmesse. Nelle conclusioni  
+saranno evidenziati i risultati raggiunti, per poi trattare le possibili evoluzioni  
 del RDS, analizzando il futuro delle radio tradizionali. 
-
----
 
 ## 💻 MATLAB
 
-Il progetto include codici MATLAB sviluppati da MathWorks per l'interazione con le Software Defined Radio. 
-I codici e la bibliografia sono reperibili sul sito https://it.mathworks.com/help/comm/ug/rds-rbds-and-radiotext-plus-rt-fm-receiver.html 
-La SDR usata nel progetto, come detto, è una RTL-SDR.
-Puoi scaricare il codice usato nella tesi qui:
+Il progetto include codici MATLAB sviluppati da MathWorks per l'interazione con le Software Defined Radio.    
+I codici e la bibliografia sono reperibili sul sito https://it.mathworks.com/help/comm/ug/rds-rbds-and-radiotext-plus-rt-fm-receiver.html   
+La SDR usata nel progetto, come detto, è una RTL-SDR.  
+Puoi scaricare il codice usato nella tesi qui:  
 
 📥 [Scarica il mio codice MATLAB](RDS_code.m)
 
