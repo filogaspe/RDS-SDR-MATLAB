@@ -31,7 +31,7 @@ del RDS, analizzando il futuro delle radio tradizionali.
 ### 💻 MATLAB
 
 Il progetto include codici MATLAB sviluppati da MathWorks per l'interazione con le Software Defined Radio.    
-I codici e la bibliografia sono reperibili sul sito https://it.mathworks.com/help/comm/ug/rds-rbds-and-radiotext-plus-rt-fm-receiver.html   
+I codici e la bibliografia sono reperibili [qui](https://it.mathworks.com/help/comm/ug/rds-rbds-and-radiotext-plus-rt-fm-receiver.html).   
 La SDR usata nel progetto, come detto, è una RTL-SDR.  
 Puoi scaricare il codice usato nella tesi qui:  
 
@@ -46,6 +46,6 @@ Attualmente frequento il corso di Laurea Magistrale in Telecommunication Enginee
 Resto disponibile per chiarimenti o informazioni!
 
 📧 Email: filippo.gasperini@mail.polimi.it  
-🔗 [LinkedIn](www.linkedin.com/in/filippo-gasperini) 
+🔗 [LinkedIn](https://www.linkedin.com/in/filippo-gasperini) 
 
 Grazie per la visita.
