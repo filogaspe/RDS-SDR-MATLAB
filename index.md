@@ -1,15 +1,13 @@
-## Ricevitore MATLAB-SDR per Radio Data System nella radio FM
+# Ricevitore MATLAB-SDR per Radio Data System nella radio FM
 
 Benvenuto!   
 Qui puoi trovare il materiale relativo alla mia tesi triennale, discussa presso l'Università di Pisa nel maggio 2024.
 
----
-
-# 📄 Tesi
+### 📄 Tesi
 
 📥 [Scarica la tesi in PDF](RDS_SDR_MATLAB.pdf)
 
-# 📚 Abstract
+### 📚 Abstract
 Questa tesi si propone di esplorare in dettaglio il Radio Data System nella
 radio FM, combinando elementi teorici con un approccio sperimentale, attraverso
 l'implementazione di un codice MATLAB per la ricezione e demodulazione del
@@ -30,7 +28,7 @@ elaborati e interpretati per estrarre le informazioni trasmesse. Nelle conclusio
 saranno evidenziati i risultati raggiunti, per poi trattare le possibili evoluzioni
 del RDS, analizzando il futuro delle radio tradizionali. 
 
-# 💻 MATLAB
+### 💻 MATLAB
 
 Il progetto include codici MATLAB sviluppati da MathWorks per l'interazione con le Software Defined Radio.    
 I codici e la bibliografia sono reperibili sul sito https://it.mathworks.com/help/comm/ug/rds-rbds-and-radiotext-plus-rt-fm-receiver.html   
@@ -49,7 +47,5 @@ Resto disponibile per chiarimenti o informazioni!
 
 📧 Email: filippo.gasperini@mail.polimi.it  
 🔗 [LinkedIn](www.linkedin.com/in/filippo-gasperini) 
-
----
 
 Grazie per la visita.
