@@ -24,7 +24,7 @@ fondamentali delle SDR, illustrando come questa tecnologia consenta di utilizzar
 un ricevitore radio software. Sarà esaminata l'interazione tra la SDR-RTL e
 MATLAB. Nel terzo capitolo verrà presentata l'implementazione pratica del
 codice MATLAB in esame, mostrando come i dati RDS possano essere acquisiti, 
-elaborati e interpretati per estrarre le informazioni trasmesse. Nelle conclusioni  
+elaborati e interpretati per estrarre le informazioni trasmesse. Nelle conclusioni
 saranno evidenziati i risultati raggiunti, per poi trattare le possibili evoluzioni
 del RDS, analizzando il futuro delle radio tradizionali. 
 
