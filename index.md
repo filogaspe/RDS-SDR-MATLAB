@@ -1,7 +1,5 @@
 # Ricevitore MATLAB-SDR per Radio Data System nella radio FM
 
-Questo è un progetto basato sulla mia tesi triennale.  
-
 📄 [Scarica la tesi in PDF](RDS_SDR_MATLAB.pdf)  
 
 ## Abstract  
